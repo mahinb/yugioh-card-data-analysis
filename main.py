@@ -1,6 +1,4 @@
 ########################################################################################################################
-#   Project #5
-#
 #   Algorithm:
 #       Prompt the user to enter the filename containing card data.
 #       Read the card data from the file using CSV parsing.
